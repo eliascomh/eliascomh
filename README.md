@@ -1,8 +1,8 @@
 ## Olá, pessoas! Me chamo Helias
   
 - 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: eu amo gatos!
+- 😄 Pronomes: ele/dele
+- ❤️ Amo: gatos
 
 <div align="center">
   <a href="https://github.com/eliascomh">
