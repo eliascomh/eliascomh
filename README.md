@@ -14,15 +14,6 @@
   
   </div>
 <div style="display: inline_block"><br>
- <img aling=center width="100" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
- <img aling=center width="100" src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white />
-</div>
-
- ## Entre em contato pelo:
- 
- <div style="display: inline_block"><br>
- <img aling=center width="100" src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
- <img aling=center height="32em" width="110" src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white />
- <img aling=center height="32em" width="110" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white />
-
+ <img aling=center height="32em" width="110" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
+ <img aling=center height="32em" width="110" src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white />
 </div>
