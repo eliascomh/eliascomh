@@ -1,8 +1,9 @@
-## Olá, pessoas! Me chamo Helias
+## Um pouco sobre mim
   
 - 🌱 Estudando Python
 - 😄 Pronomes: ele/dele
 - ❤️ Amo: gatos
+- ♟️ Chess: eliascomh
 
 <div align="center">
   <a href="https://github.com/eliascomh">
