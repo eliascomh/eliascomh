@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://github.com/eliascomh">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliascomh&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliascomh&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div> 
  
-  ##
+  ## Minhas ferramentas
   
   </div>
 <div style="display: inline_block"><br>
- <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ <img aling=center width="100" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
+ <img aling=center width="100" src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white />
 </div>
