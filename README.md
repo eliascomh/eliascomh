@@ -1,6 +1,6 @@
 ## Um pouco sobre mim
   
-- 🌱 Estudando Python
+- 🌱 Praticando Django
 - 😄 Pronomes: ele/dele
 - ❤️ Amo: gatos
 - ♟️ Chess: eliascomh
