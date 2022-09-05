@@ -17,5 +17,6 @@
  <img aling=center height="32em" width="110" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
  <img aling=center height="32em" width="110" src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white />
  <img aling=center height="32em" width="140" src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white />
+ <img aling=center height="32em" width="110" src=[https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) />
  <img aling=center height="32em" width="110" src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white />
 </div>
